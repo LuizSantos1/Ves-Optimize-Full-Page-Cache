@@ -15,7 +15,7 @@ Includes cache crawler!
 
 - Installation guide: https://blog.landofcoder.com/magento-2-install-extension/
 - Download from our Live site: http://www.venustheme.com/theme/ves-optimize/
-- Get Support: https://landofcoder.ticksy.com/
+- Get Support: https://venustheme.ticksy.com/
 
 ## 2. How to install Extension
 
@@ -37,7 +37,7 @@ php ­f bin/magento setup:upgrade
 
 Step 6: After opening Stores­ >>Configuration >­>Advanced >­> Advanced, the module will be shown in the admin panel
 
-## 3. What make people fall in love with LOF marketplace extensions
+## 3. What make people fall in love with the extensions
 
 ### Saves up to 1-3 seconds on each page request
 The page had been saved into cache with the very first visit. Once your customer visit any page of your website, Ves page cache extension already has a ready page to serve without waitting for reloading.
@@ -53,7 +53,7 @@ With our Full Page Cache, you can enable/ Disable or Refresh Full Page Cache in 
 
 
 
-## LandOfCoder extensions on Magento Marketplace, Github
+## LandOfCoder, Venustheme extensions on Magento Marketplace, Github
 
 - [Magento 2 Multivendor Marketplace](https://landofcoder.com/magento-2-marketplace-extension.html/)
 - [Magento 2 Blog Extension](https://landofcoder.com/magento-2-blog-extension.html/)
